@@ -1,4 +1,22 @@
-# Xcode
+Pods
+Podfile.lock
+.DS_Store
+*.xcuserstate
+*.xcbkptlist
+*.xcscmblueprint
+*.xccheckout
+
+xcschememanagement.plist
+ArkitDemo.xcworkspace/xcuserdata*.*
+ArkitDemo.xcworkspace/xcuserdata
+ArkitDemo.xcworkspace/xcshared*.*
+ArkitDemo.xcscmblueprint
+
+# Build outputs directory
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser# Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
